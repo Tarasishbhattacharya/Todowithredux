@@ -1,0 +1,56 @@
+{
+  "todos": [
+    {
+      "id": "1654112026534",
+      "todo": "I am feeling good"
+    },
+    {
+      "id": "1654112060043",
+      "todo": "i know React.js"
+    },
+    {
+      "id": "1654112474445",
+      "todo": "i know redux"
+    },
+    {
+      "id": "1654112637301",
+      "todo": "hello"
+    },
+    {
+      "id": "1654112736031",
+      "todo": "Hiii sir"
+    },
+    {
+      "id": "1654113405632",
+      "todo": "What about you?"
+    },
+    {
+      "id": "1654113425472",
+      "todo": "Tell me something about yourself"
+    },
+    {
+      "id": "1654114761625",
+      "todo": "Lets crack google"
+    },
+    {
+      "id": "1654114892388",
+      "todo": "lets crack meta"
+    },
+    {
+      "id": "1654114941365",
+      "todo": "goodbye"
+    },
+    {
+      "id": "1654115082378",
+      "todo": "See you tomorrow"
+    },
+    {
+      "id": "1654115201672",
+      "todo": "hello"
+    },
+    {
+      "id": "1654115204655",
+      "todo": "hello"
+    }
+  ]
+}
